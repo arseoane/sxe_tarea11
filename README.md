@@ -25,5 +25,10 @@ Revisa los datos antes de cargarlos: como en cualquier empresa, puede haber alg�
 -----------
 
 Creación de la empresa:
+
 <img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/190dabdc-8b46-41bc-859e-7cb057ae2613" />
+
+Creación de clientes y proveedores:
+
+<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/d739212a-86fa-49ff-9ead-8569a2999e73" />
 
