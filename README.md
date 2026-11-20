@@ -32,3 +32,6 @@ Creación de clientes y proveedores:
 
 <img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/d739212a-86fa-49ff-9ead-8569a2999e73" />
 
+Creación de personas de contacto:
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b73a1ae9-aade-4b00-8c10-e9d990bae684" />
