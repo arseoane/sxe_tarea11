@@ -40,3 +40,5 @@ Creación de facturas emitidas y recibidas:
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d2768278-3e29-4e36-a67a-f20fcd881bb6" />
 
+Configuración de la empresa:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0caf93b4-ccaa-46a1-9c8b-ed8de6f5daa7" />
