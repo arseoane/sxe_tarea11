@@ -35,7 +35,8 @@ Creación de la empresa:
 
 Creación de clientes y proveedores:
 
-<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/d739212a-86fa-49ff-9ead-8569a2999e73" />
+<img width="1600" height="779" alt="image" src="https://github.com/user-attachments/assets/339b106e-117c-4f17-832f-3b6f3d8d69d6" />
+
 
 Creación de personas de contacto:
 
