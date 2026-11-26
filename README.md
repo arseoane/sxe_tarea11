@@ -40,7 +40,8 @@ Creación de clientes y proveedores:
 
 Creación de personas de contacto:
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b73a1ae9-aade-4b00-8c10-e9d990bae684" />
+<img width="1600" height="779" alt="image" src="https://github.com/user-attachments/assets/cf498e95-1261-4091-ab95-0e656b8bdd32" />
+
 
 Creación de facturas emitidas y recibidas:
 
