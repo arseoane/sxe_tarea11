@@ -25,11 +25,13 @@ Revisa los datos antes de cargarlos: como en cualquier empresa, puede haber alg�
 -----------
 
 Creación de la base de datos nueva:
+
 <img width="294" height="62" alt="image" src="https://github.com/user-attachments/assets/c564a333-94a5-459e-a5c5-ea2552ee947b" />
 
 Creación de la empresa:
 
-<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/190dabdc-8b46-41bc-859e-7cb057ae2613" />
+<img width="1600" height="731" alt="image" src="https://github.com/user-attachments/assets/5e9ec807-c84f-4360-a4d6-e9a5c3f6170d" />
+
 
 Creación de clientes y proveedores:
 
